@@ -1,0 +1,44 @@
+*{padding:0; margin:0; box-sizing: border-box;}
+body{
+    overflow-x: hidden;
+}
+
+h1{
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
+}
+.carousel-item img{
+   width: 100px;
+   height:80vh;
+}
+.card-body img{
+    min: width 50%;
+    max: height 200px;
+
+}
+.card-body img{
+    min: width 50%;
+    max: height 200px;
+
+}
+.imgbox{
+    height: 100px;
+    width: 100px;
+}
+.img{
+    display: block;
+    margin: auto;
+    height: 100px;
+    width: 100px;
+}
+.mainbox{
+    display: flex;
+    justify-content: space-around;
+    background-color: #008000;
+}
+
+.color-green{
+    color: #008000;
+}
+.bg-green{
+    background-color: #008000;
+}
